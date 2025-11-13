@@ -1,4 +1,6 @@
 # HELLO CONNECTIONS 👋
+![Profile Views](https://komarev.com/ghpvc/?username=AswinKrishna&label=Profile%20views&color=brightgreen&style=for-the-badge)
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="Hi">
