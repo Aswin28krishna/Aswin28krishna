@@ -41,7 +41,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white"/>
