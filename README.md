@@ -64,22 +64,6 @@
 
 ## 🔥 My Stats ::
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <h2>1</h2>
-    <p>Total Contributions</p>
-    <p>2023-11-14 - Present</p>
-  </div>
-  <div>
-    <h2>0</h2>
-    <p>Current Streak</p>
-    <p>Nov 14</p>
-  </div>
-  <div>
-    <h2>1</h2>
-    <p>Longest Streak</p>
-    <p>2023-11-14</p>
-  </div>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&date_format=M%20j%5B%2C%20Y%5D&stroke=FF6A00&fire=FF6A00&ring=F73718&background=FFFFFF&sideNums=F73718&currStreakNum=F73718&sideLabels=F73718&dates=555555&start_date=2023-11-14)](https://git.io/streak-stats)
 
 
