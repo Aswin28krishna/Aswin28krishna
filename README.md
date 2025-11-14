@@ -64,6 +64,6 @@
 
 ## 🔥 My Stats ::
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&date_format=M%20j%5B%2C%20Y%5D&stroke=FF6A00&fire=FF6A00&ring=F73718&background=FFFFFF&sideNums=F73718&currStreakNum=F73718&sideLabels=F73718&dates=555555&start_date=2023-11-14)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&starting_date=2023-06-03)](https://git.io/streak-stats)
 
 
