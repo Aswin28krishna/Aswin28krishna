@@ -64,5 +64,22 @@
 
 ## 🔥 My Stats ::
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&starting_date=2023-11-14)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <h2>1</h2>
+    <p>Total Contributions</p>
+    <p>2023-11-14 - Present</p>
+  </div>
+  <div>
+    <h2>0</h2>
+    <p>Current Streak</p>
+    <p>Nov 14</p>
+  </div>
+  <div>
+    <h2>1</h2>
+    <p>Longest Streak</p>
+    <p>2023-11-14</p>
+  </div>
+</div>
+
 
