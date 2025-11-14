@@ -60,10 +60,4 @@
 
 ⭐ **If you like my work, consider giving a star!**
 
----
-
-## 🔥 My Stats ::
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&starting_date=03-06-2023)](https://git.io/streak-stats)
-
 
