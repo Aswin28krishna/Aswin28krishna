@@ -64,5 +64,5 @@
 
 ## 🔥 My Stats ::
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YourUserName&starting_year=2023&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
