@@ -31,7 +31,7 @@
 🏫 Currently, I’m pursuing an **internship in Data Science**  
 👷‍♀️ I’m working on multiple datasets on **Kaggle** to enhance my skills in Machine Learning and Analytics.  
 🌱 Exploring **Data Visualization & Storytelling** using Power BI and Tableau.  
-💞️ I’m looking to collaborate on **Data Analysis, Machine Learning, and Dashboard Projects.**  
+✨ I’m looking to collaborate on **Data Analysis, Machine Learning, and Dashboard Projects.**  
 ⚡ In my free time, I love to **solve problems on HackerRank** and read **tech blogs**.  
 😆 Fun fact: If I could invent something, it’d be a **Time Machine**!  
 📫 How to reach me: **aswinaswinkrishna048@gmail.com**  
